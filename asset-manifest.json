@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/live-landing-page/static/css/main.b94d76ee.css",
+    "main.js": "/live-landing-page/static/js/main.34b6f27c.js",
+    "index.html": "/live-landing-page/index.html",
+    "main.b94d76ee.css.map": "/live-landing-page/static/css/main.b94d76ee.css.map",
+    "main.34b6f27c.js.map": "/live-landing-page/static/js/main.34b6f27c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b94d76ee.css",
+    "static/js/main.34b6f27c.js"
+  ]
+}
